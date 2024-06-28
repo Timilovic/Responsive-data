@@ -103,7 +103,7 @@ button:hover{
 @media screen and (max-width:570px) {
     h2{
         font-size: 35px;
-        margin:18px auto;
+        margin:14px auto;
     }
     form{
         margin:0;
