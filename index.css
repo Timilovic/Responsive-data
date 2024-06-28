@@ -72,3 +72,11 @@ button{
         flex-direction: column;
     }
 }
+@media screen and (max-width:570px) {
+    form{
+        margin:0;
+        width:100%;
+        border-style:none;
+        border-radius: none;
+    }
+}
